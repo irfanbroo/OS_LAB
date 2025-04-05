@@ -1,6 +1,10 @@
-# Table of Contents
+# 📚 Table of Contents
 
-| Name | Solution |
-|------|----------|
-| Example Problem 1 | [Example_Solution1.py](link) |
-| Example Problem 2 | [Example_Solution2.py](link) |
+<br>
+
+| **Problem Name** | **Solution File** |
+|:-----------------|:------------------|
+| FIFO Page Replacement | [FIFO_page.c](FIFO_page.c) |
+| Round Robin Scheduling | [Round_robin.c](Round_robin.c) |
+
+<br><br>
