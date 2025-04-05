@@ -33,7 +33,7 @@ void main(){
         }
 
         if(worst !=-1){
-            allocation[i] = worst;
+            allocation[i] = bsize[worst];
             bsize[worst] -= psize[i];
 
 
@@ -46,7 +46,7 @@ void main(){
     for(i=0;i<pno;i++){
         printf("%d\t\t%d\t\t",i+1,psize[i]);
         if(allocation[i] !=-1){
-            printf("%d \n",allocation[i]+1);
+            printf("%d \n",allocation[i]);
         }
         else{
             printf("Not allcated\n");
