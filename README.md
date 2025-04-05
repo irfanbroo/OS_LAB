@@ -14,5 +14,6 @@
 | Priority Scheduling (No Arrival Time) | [priority_no_arrival_time.c](priority_no_arrival_time.c) |
 | Scan Disk Scheduling | [scan_disk_scheduling.c](scan_disk_scheduling.c) |
 | Worst Fit Memory Allocation | [worst_fit.c](worst_fit.c) |
+| Producer_consumer | [producer_consumer.c](producer_consumer.c) |
 
 <br><br>
