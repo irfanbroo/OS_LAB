@@ -33,7 +33,7 @@ void main(){
         }
 
         if(best !=-1){
-            allocation[i] = best[j];
+            allocation[i] = bsize[best];
             bsize[best] -= psize[i];
 
 
