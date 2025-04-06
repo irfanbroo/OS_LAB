@@ -32,7 +32,7 @@ void main(){
     }
 
     p[0].ct = p[0].bt + p[0].at;
-    for(i =0;i<n;i++){
+    for(i =1;i<n;i++){
         if(p[i].at > p[i-1].ct){
             p[i].ct = p[i].bt + p[i].at;
         }
